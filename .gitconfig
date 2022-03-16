@@ -1,0 +1,8 @@
+[user]
+	name = Nithin Palusa
+	email = nithinpalusa.100@gmail.com
+	signingkey = 945C143D9F10B50C
+[gpg]
+	program = C:\\Program Files (x86)\\GnuPG\\bin\\gpg.exe
+[commit]
+	gpgsign = true
