@@ -1,0 +1,6 @@
+sudeo: required
+services:
+  -docker
+scripts:
+  -docker build -t palusa74/node .
+  -docker images palusa74/node
